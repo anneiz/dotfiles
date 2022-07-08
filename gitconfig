@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = anne.costa@cadmus.com.br
+	name = anne costa
